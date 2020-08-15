@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    我就變
+    我就變這樣
   </div>
 </template>
 
