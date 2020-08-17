@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    相信我! 會改變!
+    這是替身攻擊!
 
   </div>
 </template>
