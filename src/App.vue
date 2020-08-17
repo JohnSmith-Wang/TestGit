@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    我就變這樣
+    然後就變成這樣了喔!
 
   </div>
 </template>
